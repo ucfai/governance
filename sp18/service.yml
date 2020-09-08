@@ -1,0 +1,10 @@
+groups: [course, ]
+
+club:
+  ionlights: president
+  dibaccory: vice-president
+
+course:
+  jbowren: guest
+  ionlights: director
+  dibaccory: coordinator

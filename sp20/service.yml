@@ -1,0 +1,39 @@
+groups: [core, intelligence, project-teams, gbms, ]
+
+club:
+  sirroboto: president
+  brandons209: vice-president
+  aswu: advisor
+
+core:
+  brandons209: director
+  jarviseq: coordinator
+  danielzgsilva: coordinator
+  bb912: coordinator
+  nspeer12: coordinator
+  dillonnotdylan: coordinator
+  ionlights: [guest, advisor]
+
+discussions:
+  ahl98: director
+  taramenon: coordinator
+  paullunis: coordinator
+  hevia: coordinator
+  dillonnotdylan: coordinator
+
+project-teams:
+  ahkerrigan: director
+  causallycausal: coordinator
+  ionlights: advisor
+
+gbms:
+  sirroboto: director
+  irene-l-tanner: coordinator
+  h3rmi0n3: coordinator
+  paullunis: coordinator
+  brandons209: coordinator
+  hevia: coordinator
+  ahkerrigan: guest
+  calvinyong: guest
+  danielzgsilva: guest
+  ahl98: guest

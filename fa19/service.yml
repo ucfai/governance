@@ -1,0 +1,22 @@
+groups: [core, intelligence, data-science, ]
+
+club:
+  sirroboto: president
+  vice-president: brandons209
+  aswu: advisor
+
+course:
+  brandons209: director
+  jarviseq: coordinator
+  danielzgsilva: coordinator
+  ahkerrigan: guest
+  ionlights: [guest, advisor]
+
+intelligence:
+  ionlights: director
+  ahl98: director
+
+data-science:
+  ahkerrigan: director
+  causallycausal: coordinator
+  ionlights: advisor

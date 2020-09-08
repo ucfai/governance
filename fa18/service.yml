@@ -1,0 +1,13 @@
+groups: [course, ]
+
+club:
+  ionlights: president
+  dibaccory: vice-president
+  aswu: advisor
+
+course:
+  ionlights: director
+  dibaccory: coordinator
+  waldmannly: coordinator
+  chaskane: coordinator
+  ahl98: coordinator

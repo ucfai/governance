@@ -1,0 +1,40 @@
+groups: [core, discussions, projects, gbms, ]
+
+club:
+  sirroboto: president
+  vice-president: h34mi0n3
+  aswu: advisor
+
+core:
+  brandons209: coordinator
+  danielzgsilva: coordinator
+  sirroboto: coordinator
+  bb912: coordinator
+  paullunis: coordinator
+  sagejacob: coordinator
+  ionlights: advisor
+  flxsosa: advisor
+
+discussions:
+  paullunis: director
+  dillonnotdylan: coordinator
+  irene-l-tanner: coordinator
+  h3rmi0n3: coordinator
+  hevia: coordinator
+
+projects:
+  nspee12: director
+  bb912: coordinator
+  hevia: coordinator
+  sagejacob: coordinator
+  dan100ws: coordinator
+  cokeacolaking: coordinator
+
+gbms:
+  brandons209: director
+  paullunis: coordinator
+  danielzgsilva: coordinator
+  dyllonnotdylan: coordinator
+  irene-l-tanner: coordinator
+  h3rmi0n3: coordinator
+  sirroboto: coordinator
